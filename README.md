@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-eeff41?&style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-FFA500?&style=for-the-badge&logo=react&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-239120?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Nextjs](https://img.shields.io/badge/nextjs-87CEEB?style=for-the-badge&logo=nextjs&logoColor=black)
 
 
 ![Syed-Javith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Javith&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
